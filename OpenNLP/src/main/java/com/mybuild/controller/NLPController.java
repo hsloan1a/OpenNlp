@@ -129,7 +129,7 @@ public class NLPController {
     	return mySplitString;
 	}
 
-	@RequestMapping("/testSentance")
+	@RequestMapping("/testSentence")
     public NLPCatagory nlpCatagory(@RequestParam(value="sentence", defaultValue="") String sentence) {
     	DocumentCategorizerME myCategorizer = new DocumentCategorizerME(model);
 		double[] outcomes = myCategorizer.categorize(sentence);
