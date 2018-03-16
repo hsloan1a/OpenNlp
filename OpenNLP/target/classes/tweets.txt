@@ -1,0 +1,16 @@
+0	I hate this
+1	I love this
+0.4	I can't believe this is going on
+0.6	Please go on
+0	I hate you
+0.4	I need to talk to someone else
+0.2	you aren't helping
+0.7	I'm so glad you are here
+0.7	I like this
+0.7	this is going well
+0.4	this isn't good
+0.4	this is not good
+0.8	this is good
+0.7	you are doing good
+0.9	I can not believe how much you helped
+0.5 how can you help me
